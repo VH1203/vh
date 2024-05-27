@@ -12,7 +12,7 @@ import java.util.ArrayList;
  */
 public class Post {
     private int id;
-    private String post;
+    private String content;
     private ArrayList<Comment> comments=new ArrayList<>();
 
     public Post() {
@@ -26,12 +26,12 @@ public class Post {
         this.id = id;
     }
 
-    public String getPost() {
-        return post;
+    public String getContent() {
+        return content;
     }
 
-    public void setPost(String post) {
-        this.post = post;
+    public void setContent(String content) {
+        this.content = content;
     }
 
     public ArrayList<Comment> getComments() {
@@ -41,7 +41,7 @@ public class Post {
     public void setComments(ArrayList<Comment> comments) {
         this.comments = comments;
     }
-    
+
     
     
 }

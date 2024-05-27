@@ -4,6 +4,14 @@
         <servlet-name>first</servlet-name>
         <servlet-class>FirstPage</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>wall</servlet-name>
+        <servlet-class>control.ListPost</servlet-class>
+    </servlet>
+        <servlet-mapping>
+        <servlet-name>wall</servlet-name>
+        <url-pattern>/wall</url-pattern>
+    </servlet-mapping>
     <servlet-mapping>
         <servlet-name>first</servlet-name>
         <url-pattern>/first</url-pattern>
@@ -68,8 +76,5 @@
         <servlet-name>cal</servlet-name>
         <url-pattern>/cal</url-pattern>
     </servlet-mapping>
-    <servlet-mapping>
-        <servlet-name>Wall</servlet-name>
-        <url-pattern>/wall</url-pattern>
-    </servlet-mapping>
+
 </web-app>

@@ -3,16 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/ProgramFile/Codejava/Project%20PRJ/PRJ301_ThaySonnt/web/wall.jsp</file>
-            <file>file:/D:/ProgramFile/Codejava/Project%20PRJ/PRJ301_ThaySonnt/src/java/model/Circle.java</file>
-            <file>file:/D:/ProgramFile/Codejava/Project%20PRJ/PRJ301_ThaySonnt/src/java/wall/Wall.java</file>
+            <file>file:/D:/ProgramFile/Codejava/Project%20PRJ/PRJ301_ThaySonnt/web/wall/view.jsp</file>
+            <file>file:/D:/ProgramFile/Codejava/Project%20PRJ/PRJ301_ThaySonnt/src/java/model/Comment.java</file>
             <file>file:/D:/ProgramFile/Codejava/Project%20PRJ/PRJ301_ThaySonnt/web/WEB-INF/web.xml</file>
-            <file>file:/D:/ProgramFile/Codejava/Project%20PRJ/PRJ301_ThaySonnt/web/index.html</file>
             <file>file:/D:/ProgramFile/Codejava/Project%20PRJ/PRJ301_ThaySonnt/web/css/styleindex.css</file>
-            <file>file:/D:/ProgramFile/Codejava/Project%20PRJ/PRJ301_ThaySonnt/web/circle/create.html</file>
-            <file>file:/D:/ProgramFile/Codejava/Project%20PRJ/PRJ301_ThaySonnt/src/java/control/Loadstu.java</file>
-            <file>file:/D:/ProgramFile/Codejava/Project%20PRJ/PRJ301_ThaySonnt/src/java/circle/Create.java</file>
-            <file>file:/D:/ProgramFile/Codejava/Project%20PRJ/PRJ301_ThaySonnt/src/java/control/Servlet1.java</file>
+            <file>file:/D:/ProgramFile/Codejava/Project%20PRJ/PRJ301_ThaySonnt/web/wall/form.jsp</file>
+            <file>file:/D:/ProgramFile/Codejava/Project%20PRJ/PRJ301_ThaySonnt/src/java/control/ListPost.java</file>
+            <file>file:/D:/ProgramFile/Codejava/Project%20PRJ/PRJ301_ThaySonnt/src/java/model/Post.java</file>
             <file>file:/D:/ProgramFile/Codejava/Project%20PRJ/PRJ301_ThaySonnt/src/java/view/ViewCircle.java</file>
             <file>file:/D:/ProgramFile/Codejava/Project%20PRJ/PRJ301_ThaySonnt/web/circle/view.jsp</file>
         </group>
